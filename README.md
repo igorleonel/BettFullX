@@ -1,4 +1,4 @@
-![Texto Alternativo](https://github.com/igorleonel/BettFullX/blob/main/capa.svg)
+![Texto Alternativo](https://github.com/igorleonel/BettFullX-project/blob/main/tele_inicial.png)
 
 # 1. BettFullX
 
