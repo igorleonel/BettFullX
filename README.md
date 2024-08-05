@@ -116,7 +116,7 @@ Configuração de permissões de acesso para diferentes níveis de usuários.
 
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 
-O painel pode ser acessado através desse link: https://igor-project-cury-company.streamlit.app/
+O painel pode ser acessado através desse link: [betfullx-project](https://app.powerbi.com/view?r=eyJrIjoiMTcwNTgxMjItYzA4Zi00NGJkLWE3NTEtYzAzZGQ2YjAxNWUzIiwidCI6IjllNjBmZjcxLTUzMDgtNGVlNS04MzYyLWJjZmRmYzM2Mzk4OSJ9)
 
 ## 6. Conclusão
 
