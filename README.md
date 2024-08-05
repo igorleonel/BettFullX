@@ -110,6 +110,9 @@ Configuração de permissões de acesso para diferentes níveis de usuários.
 
 ## 4. Top 3 Insights de dados
 
+1. Analisando os dados extraídos, identificamos uma correlação significativa entre certas estatísticas de jogo e os resultados finais das partidas.
+2. Com base na análise estatística dos jogos, foi possível calcular as probabilidades dos diferentes placares para as partidas da Champions League.
+3. A análise dos gols esperados (xG) forneceu uma métrica importante para avaliar a performance das equipes de forma mais precisa. 
 
 
 ## 5. O produto final do projeto
