@@ -1,0 +1,11 @@
+SELECT 
+    *
+FROM
+    `soccer_views.vw_partidas_casa`
+
+UNION ALL
+
+SELECT 
+    *
+FROM
+    `soccer_views.vw_partidas_fora`

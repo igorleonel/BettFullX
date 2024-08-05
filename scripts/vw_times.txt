@@ -1,0 +1,5 @@
+SELECT DISTINCT
+    time_id,
+    time_nome,
+    time_logoUrl
+FROM `soccer_views.vw_partidas_todas`

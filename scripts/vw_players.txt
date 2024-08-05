@@ -1,0 +1,25 @@
+with vw_players as (
+select 
+  player__id as id,
+  player__firstname as jogador_primeiroNome,
+  player__lastname as jogador_ultimoNome,
+  player__age as jogador_idade,
+  player__nationality as jogador_nacionalidade,
+  player__photo as jogador_fotoUrl,
+  player__weight as jgador_peso,
+  player__birth__date as jogador_data_nascimento
+from
+  `soccer.players`
+)
+select
+  id,
+  concat(substring(vw_players.jogador_primeiroNome, 1, 1), '.', ' ', vw_players.jogador_ultimoNome) as jogador_nomeCompleto,
+  vw_players.jogador_primeiroNome,
+  vw_players.jogador_ultimoNome,
+  vw_players.jogador_idade,
+  vw_players.jogador_nacionalidade,
+  vw_players.jogador_fotoUrl,
+  vw_players.jgador_peso,
+  cast(vw_players.jogador_data_nascimento as date)
+from
+  vw_players
