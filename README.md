@@ -1,3 +1,5 @@
+![Texto Alternativo](https://github.com/igorleonel/BettFullX/blob/main/capa.svg)
+
 # 1. BettFullX
 
 A BetFullX, é uma plataforma de apostas que surgiu em 2019 aproveitando a legislação que permite apostas esportivas, e tem enfrentado desafios significativos desde o final de 2022. A empresa tem perdido espaço para concorrentes devido a uma queda na performance das odds oferecidas, que são menos atrativas para os apostadores em comparação com outras plataformas.
