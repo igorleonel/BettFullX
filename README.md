@@ -121,6 +121,8 @@ Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispo
 
 O painel pode ser acessado através desse link: [betfullx-project](https://app.powerbi.com/view?r=eyJrIjoiMTcwNTgxMjItYzA4Zi00NGJkLWE3NTEtYzAzZGQ2YjAxNWUzIiwidCI6IjllNjBmZjcxLTUzMDgtNGVlNS04MzYyLWJjZmRmYzM2Mzk4OSJ9)
 
+Dashboard das estatísticas: [betfullx-project-statistics](https://app.powerbi.com/view?r=eyJrIjoiNGE0NzM2YmItNTkzNS00MDkxLTljMjAtMWE2ZDIzYjRkM2JhIiwidCI6IjllNjBmZjcxLTUzMDgtNGVlNS04MzYyLWJjZmRmYzM2Mzk4OSJ9)
+
 ## 6. Conclusão
 
 O objetivo desse projeto é melhorar as odds para os clientes e fornecer um conjuntos de gráficos e/ou tabelas que exibam os melhores indicadores dos jogos em tempo real. Da visão das odds, podemos concluir que as análises estatísticas como correlações, gols esperados e  probabilidade de placar foram acertivos de acordo com os resultado reais dos jogos.
