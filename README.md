@@ -2,11 +2,11 @@
 
 # 1. BettFullX
 
-A BetFullX, é uma plataforma de apostas que surgiu em 2019 aproveitando a legislação que permite apostas esportivas, e tem enfrentado desafios significativos desde o final de 2022. A empresa tem perdido espaço para concorrentes devido a uma queda na performance das odds oferecidas, que são menos atrativas para os apostadores em comparação com outras plataformas.
+A BetFullX, é uma plataforma de apostas que surgiu em 2019 aproveitando a legislação que permite apostas esportivas, e tem enfrentado desafios significativos desde o final de 2022. A empresa estava perdendo clientes para os concorrentes porque as chances de ganhar nas apostas que ofereciam eram menos atraentes do que as de outras plataformas.
 
-Sendo assim, a empresa pretende contratar um serviço que forneça dados via API para aprimorar seus KPIs, obter uma visibilidade completa dos jogos e garantir informações detalhadas e precisas para uma análise mais eficaz, resultando em melhores performances nas odds.
+Para aumentar a quantidade de clientes da empresa, a solução foi contratar um serviço que fornecesse dados confiáveis para melhorar as chances dos clientes ganharem as apostas. Isso fornecerá uma melhor visibilidade, com informações mais detalhadas dos jogos e análises mais eficazes, melhorando o desempenho dos apostadores.
 
-Antes de treinar algoritmos, a necessidade da BetFullX é ter os principais KPIs estratégicos organizados em uma única ferramenta, permitindo que os clientes possam consultá-los facilmente e tomar decisões simples, porém importantes, com base em informações precisas e detalhadas sobre os jogos.
+A necessidade da BetFullX é ter os melhrores indicadores estratégicos organizados em uma única plataforma, permitindo que os clientes possam consultá-los facilmente e tomar decisões simples, porém importantes, com base em informações precisas e detalhadas sobre os jogos.
 
 Para acompanhar os principais indicadores e ajudar a melhorar a performance das odds, a BetFullX precisa ter as seguintes métricas:
 
